@@ -62,7 +62,7 @@ Aplicação em **Streamlit**, com seleção do tipo de aluno e uso automático d
 ## 🔗 Links
 
 - 📓 [Notebook Python](https://github.com/Ygorca125/Projeto-Previs-o-defasagem-alunos/blob/main/Projeto_M%C3%B3dulo_5_.ipynb)  
-- 🎥 Apresentação no YouTube: *(inserir link)*  
+- 🎥 [Apresentação no YouTube](https://youtu.be/jxygYcTUHfQ)  
 - 🚀 [Aplicação Streamlit](https://projeto-previs-o-defasagem-alunos-aowcugb3xv48z72wrkh9qm.streamlit.app/)
 
 ---
